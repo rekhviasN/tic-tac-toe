@@ -1,6 +1,6 @@
 /* 
     npm i prompt chalk 
-    node tttGame.js
+    node tic-tac-toe.js
 
     Definitions
     userPlayer - User's team, selected by the User. Possible values are "X" or "Y". 
