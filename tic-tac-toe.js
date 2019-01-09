@@ -2,7 +2,7 @@
     npm i prompt chalk 
     node tttGame.js
 
-    Defenitions
+    Definitions
     userPlayer - User's team, selected by the User. Possible values are "X" or "Y". 
     roboPlayer - Robot's team, assigned after the User chooses their team. 
     board - 3x3 Grid tracking the status of User and Robot placements.
